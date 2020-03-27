@@ -3,6 +3,7 @@
 
 #Introduction
 
+#Purpose of this project is to learn different parts of git and github
 #Purpose
 
 #Deployment
